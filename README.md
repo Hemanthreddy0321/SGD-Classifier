@@ -7,7 +7,7 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-'''
+
 
 1. Import Necessary Libraries and Load Data
 
@@ -19,7 +19,7 @@ To write a program to predict the type of species of the Iris flower using the S
 
 5.Generate Confusion Matrix
 
-'''
+
 
 ## Program:
 ```
